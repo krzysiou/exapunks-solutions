@@ -6,8 +6,10 @@
 >
 > For help completing this task see "Ghast Walks U Thru It" in the first issue of the zine.
 
-## Solution
+##
 
-![01 Trash World News][solution]
+<div align="center">
 
-[solution]: https://i.imgur.com/WcMuKGj.gif "01 Trash World News"
+  ![EXAPUNKS - TRASH WORLD NEWS (4, 3, 2, 2023-02-21-23-24-00)](https://user-images.githubusercontent.com/60892747/220473557-2ef8de38-e5f4-4a26-8715-fa0b1ea59a98.gif)
+
+</div>
