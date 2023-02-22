@@ -1,8 +1,8 @@
 # 02 Trash World News
 
-> Move file 200 to the **outbox**.
+> Add the first two values of file 200, multiply the result by the third value, and then subtract the fourth value. Append the result to the end of the file and then move it to the **outbox**.
 >
-> This task, like most tasks, requires you to _leave no trace_. You must terminate all of your EXAs, not leave any extraneous files in the network, and not make any changes to the network other than those specified by the task's requirements.
+> You can press the "SHOW GOAL" button (or F1) at any time to see a preview of the completed task.
 >
 > For help completing this task see "Ghast Walks U Thru It" in the first issue of the zine.
 
@@ -10,6 +10,6 @@
 
 <div align="center">
 
-![EXAPUNKS - TRASH WORLD NEWS (4, 3, 2, 2023-02-21-23-24-00)](https://user-images.githubusercontent.com/60892747/220473557-2ef8de38-e5f4-4a26-8715-fa0b1ea59a98.gif)
+![EXAPUNKS - TRASH WORLD NEWS (9, 8, 2, 2023-02-22-09-59-49)](https://user-images.githubusercontent.com/60892747/220573436-97604104-d279-42e9-9d72-6e253e797049.gif)
 
 </div>
