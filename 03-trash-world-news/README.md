@@ -1,8 +1,6 @@
 # 03 Trash World News
 
-> Move file 200 to the **outbox**.
->
-> This task, like most tasks, requires you to _leave no trace_. You must terminate all of your EXAs, not leave any extraneous files in the network, and not make any changes to the network other than those specified by the task's requirements.
+> File 199 contains exactly two values: a keyword and a number. Create a new file in the _outbox_ and copy those two values to it, swapping their order so that the number is first. When you are finished, delete file 199.
 >
 > For help completing this task see "Ghast Walks U Thru It" in the first issue of the zine.
 
@@ -10,6 +8,6 @@
 
 <div align="center">
 
-![EXAPUNKS - TRASH WORLD NEWS (4, 3, 2, 2023-02-21-23-24-00)](https://user-images.githubusercontent.com/60892747/220473557-2ef8de38-e5f4-4a26-8715-fa0b1ea59a98.gif)
+![EXAPUNKS - TRASH WORLD NEWS (9, 8, 2, 2023-02-22-10-01-49)](https://user-images.githubusercontent.com/60892747/220573664-7b19c016-501e-4634-b0fd-43ffc355812f.gif)
 
 </div>
