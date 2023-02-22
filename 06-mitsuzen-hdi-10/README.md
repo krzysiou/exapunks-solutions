@@ -1,15 +1,15 @@
 # 06 Mitsuzen HDI-10
 
-> Move file 200 to the **outbox**.
+> Read a value from the nerve connected to your central nervous system (CNS) and make your heart beat by writing a sequence of values to your sinoatrial (SA-N) and atrioventricular (AV-N) nodes as indicated in the HDI-10 I/O log when holding the "SHOW GOAL" button. The length of each sequence of values should be equal to the value from the CNS divided by -10. Repeat _ad infinitum_.
 >
-> This task, like most tasks, requires you to _leave no trace_. You must terminate all of your EXAs, not leave any extraneous files in the network, and not make any changes to the network other than those specified by the task's requirements.
+> It is not necessary to leave no trace. Your EXAs should be written to operate indefinitely.
 >
-> For help completing this task see "Ghast Walks U Thru It" in the first issue of the zine.
+> For more information see "Debugging the Phage" in the first issue of the zine.
 
 ##
 
 <div align="center">
 
-![EXAPUNKS - TRASH WORLD NEWS (4, 3, 2, 2023-02-21-23-24-00)](https://user-images.githubusercontent.com/60892747/220473557-2ef8de38-e5f4-4a26-8715-fa0b1ea59a98.gif)
+![EXAPUNKS - Mitsuzen HDI-10 (241, 23, 6, 2023-02-22-10-06-04)](https://user-images.githubusercontent.com/60892747/220574580-81c5be73-f579-4a10-8fde-5382f0cd25d1.gif)
 
 </div>
