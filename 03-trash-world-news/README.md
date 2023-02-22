@@ -8,6 +8,6 @@
 
 <div align="center">
 
-![EXAPUNKS - TRASH WORLD NEWS (9, 8, 2, 2023-02-22-10-01-49)](https://user-images.githubusercontent.com/60892747/220573664-7b19c016-501e-4634-b0fd-43ffc355812f.gif)
+![EXAPUNKS - TRASH WORLD NEWS (11, 13, 4, 2023-02-22-10-02-01)](https://user-images.githubusercontent.com/60892747/220574046-c936813e-a77c-4589-9d1f-58c8f55de6e7.gif)
 
 </div>
